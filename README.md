@@ -20,17 +20,18 @@ npm install cordova-plugin-fingerprint-aio --save
 npm install @ionic-native/fingerprint-aio --save
 ```
 
-# start ionic web project on default port 8100
-```shell
-ionic serve
-```
-
 # build ionic project
 ```shell
 ionic build
 ```
 
-# install Android Studio from Google (download deb package)
+# start ionic web project on default port 8100
+```shell
+ionic serve
+```
+
+# install Android Studio
+Before test out hybrid App under any Android emulator we must to install Android Studio from Android default site
 
 # configure SDK and Android Studio tools
 ```shell
