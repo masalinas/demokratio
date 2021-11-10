@@ -31,7 +31,7 @@ ionic serve
 ```
 
 # install Android Studio
-Before test out hybrid App under any Android emulator we must to install Android Studio from Android default site
+Before test our hybrid App under any Android emulator we must to install Android Studio from Android default site
 
 # configure SDK and Android Studio tools
 ```shell
