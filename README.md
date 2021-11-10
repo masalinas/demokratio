@@ -7,7 +7,7 @@ npm install -g @ionic/cli
 ```
 
 # start scaffolding ionic project (wizard)
-Select blank project
+Select blank project. By default capacitor project is created
 
 ```shell
 ionic start
