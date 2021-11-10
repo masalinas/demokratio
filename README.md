@@ -89,6 +89,8 @@ Finger print emulator
 
 # App running
 
-Android Finger Print validation. You must select (Finger 1) selected previously to validate
+Android Home View 
+![Android Emulator Finger Print](/images/Android_Home.png)
 
+Android Finger Print view. You must select (Finger 1) selected previously to validate
 ![Android Emulator Finger Print](/images/Android_Validation.png)
