@@ -1,3 +1,6 @@
+# description
+A PoC Ionic capacitor project with cordova biometric plugin control
+
 # install ionic CLI
 ```shell
 npm install -g @ionic/cli
@@ -8,6 +11,13 @@ Select blank project
 
 ```shell
 ionic start
+```
+
+# install dependencies
+```shell
+npm install @ionic-native/core --save
+npm install cordova-plugin-fingerprint-aio
+npm install @ionic-native/fingerprint-aio
 ```
 
 # start ionic project on default port 8100
