@@ -15,16 +15,13 @@ ionic build
 # install Android Studio from Google (download deb package)
 
 # configure SDK and Android Studio tools
-export ANDROID_SDK_ROOT=$HOME/Android/sdk
+export ANDROID_SDK_ROOT=$HOME/Android/Sdk
 
-avdmanager, sdkmanager
 export PATH=$PATH:$ANDROID_SDK_ROOT/tools/bin
-
-adb, logcat
 export PATH=$PATH:$ANDROID_SDK_ROOT/platform-tools
-
-emulator
 export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
+
+export CAPACITOR_ANDROID_STUDIO_PATH=/opt/android-studio/bin/studio.sh
 
 # creae AVD (Androisd Virtual Device) from Angulara Studio to emulate results. to check
 adb devices
