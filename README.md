@@ -54,7 +54,7 @@ Install some Android Emulator
 
 ![Android Emulator configuration](/images/Android_Emulators.png)
 
-After install some SDK and Android Emulator, we could list the android emulators installed
+After install some SDK and Android Emulator, we could list the android emulators installed from CLI
 
 ```shell
 adb devices
