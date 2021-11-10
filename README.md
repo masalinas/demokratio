@@ -46,6 +46,16 @@ export CAPACITOR_ANDROID_STUDIO_PATH=/opt/android-studio/bin/studio.sh
 ```
 
 # create AVD (Android Virtual Device) from Android Studio to emulate Apps
+Install some Android SDK
+
+![Android Emulator configuration](/images/Android_SDK.png)
+
+Install some Android Emulator
+
+![Android Emulator configuration](/images/Android_Emulators.png)
+
+After install some SDK and Android Emulator, we could list the android emulators installed
+
 ```shell
 adb devices
 ```
