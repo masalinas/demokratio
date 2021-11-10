@@ -34,6 +34,7 @@ ionic serve
 Before test our hybrid App under any Android emulator we must to install Android Studio from Android default site
 
 # configure SDK and Android Studio tools
+Add this environment variables and set PATH in your bashrc file in your home folder
 ```shell
 export ANDROID_SDK_ROOT=$HOME/Android/Sdk
 
