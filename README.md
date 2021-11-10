@@ -90,7 +90,7 @@ Finger print emulator
 # App running
 
 Android Home View 
-![Android Emulator Finger Print](/images/Android_Home.png)
+![Android Emulator Fingerprint](/images/Android_Home.png)
 
 Android Finger Print view. You must select (Finger 1) selected previously to validate
-![Android Emulator Finger Print](/images/Android_Validation.png)
+![Android Emulator Fingerprint](/images/Android_Validation.png)
