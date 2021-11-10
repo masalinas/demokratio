@@ -20,7 +20,7 @@ npm install cordova-plugin-fingerprint-aio --save
 npm install @ionic-native/fingerprint-aio --save
 ```
 
-# start ionic project on default port 8100
+# start ionic web project on default port 8100
 ```shell
 ionic serve
 ```
