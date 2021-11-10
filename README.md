@@ -2,6 +2,8 @@
 npm install -g @ionic/cli
 
 # start scaffolding ionic project (wizard)
+Select blank project
+
 ionic start
 
 # start ionic project on default port 8100
