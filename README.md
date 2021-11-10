@@ -87,6 +87,8 @@ Finger print emulator
 
 ![Android Emulator Finger Print](/images/Finger_Print.png)
 
+# App running
+
 Android Finger Print validation
 
 ![Android Emulator Finger Print](/images/Android_Validation.png)
