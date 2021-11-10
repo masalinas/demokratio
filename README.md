@@ -16,8 +16,8 @@ ionic start
 # install dependencies
 ```shell
 npm install @ionic-native/core --save
-npm install cordova-plugin-fingerprint-aio
-npm install @ionic-native/fingerprint-aio
+npm install cordova-plugin-fingerprint-aio --save
+npm install @ionic-native/fingerprint-aio --save
 ```
 
 # start ionic project on default port 8100
