@@ -65,11 +65,6 @@ adb devices
 ionic capacitor add android
 ```
 
-# set Package ID in capacitor.config.json and set your unique app name
-```shell
-"appId": "io.oferto.starter"
-```
-
 # build ionic project and copy ionic assets to android native project
 ```shell
 ionic capacitor copy android
