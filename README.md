@@ -76,7 +76,7 @@ ionic capacitor run android -l --host=192.168.1.57
 ```
 
 # configure emulator
-You must configure screen lock pattern and then add a fingerprint (Finger 1) using the emulator extend controls
+You must configure Screen Lock pattern and then add a Fingerprint using for example (Finger 1) from emulator extend controls
 
 Security configurations
 
