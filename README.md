@@ -33,7 +33,7 @@ export PATH=$PATH:$ANDROID_SDK_ROOT/emulator
 export CAPACITOR_ANDROID_STUDIO_PATH=/opt/android-studio/bin/studio.sh
 ```
 
-# creae AVD (Androisd Virtual Device) from Angulara Studio to emulate results. to check
+# create AVD (Android Virtual Device) from Android Studio to emulate Apps
 ```shell
 adb devices
 ```
