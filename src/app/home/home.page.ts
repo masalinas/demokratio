@@ -9,9 +9,7 @@ import { FingerprintAIO } from '@ionic-native/fingerprint-aio/ngx';
 })
 export class HomePage {
 
-  constructor(
-    private faio: FingerprintAIO
-  ) {
+  constructor(private faio: FingerprintAIO) {
   }
 
   public showFingerprintAuthDlg() {
