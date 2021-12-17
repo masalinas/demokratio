@@ -14,8 +14,16 @@
   </ion-header>
 
   <div id="container">
-    <h4>Tap the button to Authenticate</h4>
+    <h4>Tap the button to authenticate</h4>
     <ion-button expand="full" fill="outline" (click)="showFingerprintAuthDlg()">Fingerprint Authenticate
+    </ion-button>
+
+    <h4>Send messaged to Whatsapp</h4>
+    <ion-button href={{url}} expand="full" fill="outline">Send Message
+    </ion-button>
+    
+    <h4>Get device data</h4>
+    <ion-button expand="full" fill="outline" (click)="getUniqueDeviceID()">Get UniqueId
     </ion-button>
   </div>
 </ion-content>

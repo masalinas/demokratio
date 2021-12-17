@@ -48,11 +48,11 @@ export CAPACITOR_ANDROID_STUDIO_PATH=/opt/android-studio/bin/studio.sh
 # create AVD (Android Virtual Device) from Android Studio to emulate Apps
 Install some Android SDK
 
-![Android Emulator configuration](/images/Android_SDK.png)
+![Android Emulator configuration](/screenshots/Android_SDK.png)
 
 Install some Android Emulator
 
-![Android Emulator configuration](/images/Android_Emulators.png)
+![Android Emulator configuration](/screenshots/Android_Emulators.png)
 
 After install some SDK and Android Emulator, we could list the android emulators installed from CLI
 
@@ -80,19 +80,19 @@ You must configure Screen Lock pattern and then add a Fingerprint using for exam
 
 Security configurations
 
-![Android Emulator configuration](/images/phone_config.png)
+![Android Emulator configuration](/screenshots/phone_config.png)
 
 
 Finger print emulator
 
-![Android Emulator Finger Print](/images/Finger_Print.png)
+![Android Emulator Finger Print](/screenshots/Finger_Print.png)
 
 # App running
 
 Android Home View 
 
-![Android Emulator Fingerprint](/images/Android_Home.png)
+![Android Emulator Fingerprint](/screenshots/Android_Home.png)
 
 Android Finger Print view. You must select (Finger 1) selected previously to validate
 
-![Android Emulator Fingerprint](/images/Android_Validation.png)
+![Android Emulator Fingerprint](/screenshots/Android_Validation.png)
